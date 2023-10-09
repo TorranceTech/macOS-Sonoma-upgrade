@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the deferral time in seconds (1 hour = 3600 seconds)
-deferral_time=5
+deferral_time=3600
 
 # Prompt the user with a dialog box for password
 password=""
